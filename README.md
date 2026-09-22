@@ -142,12 +142,12 @@ This repository is for educational data-analysis and machine-learning purposes. 
 
 ## Dataset
 
-The repository expects the drug dataset used by the original notebook. If redistribution of the dataset is restricted, do not commit the raw CSV; instead, document where authorized users can obtain it.
+The required dataset has been uploaded to the `data/` folder and is ready to be used by the notebook.
 
 ## Author
 
-Add your name and team members here.
+Anu Rani
 
 ## License
 
-Add the license required by your course, team, or dataset terms.
+This project is for academic/educational purposes. All rights reserved by the authors.
